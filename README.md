@@ -5,6 +5,17 @@ ___
 
 ## Shop Links
 
+# Libera Shop
+Protocol: https
+Host: Liberashop.rs
+Title: Libera Shop
+
+Username/Password/Path
+LiberaShop does not require any additional information to be entered. No OAuth setup, license linked to a Discord account, or contribution is needed.
+
+Install Options
+It is required that Stream Install is turned ON in the Options tab. This is the default setting, but if you have any failing downloads, please make sure that you check in Tinfoil: scroll down the Options, scroll about halfway down to the Install section, and make sure that Stream Install is set to YES.
+```
 ```
 # Biscuit shop
 discord: https://tinyurl.com/4shnr37u
